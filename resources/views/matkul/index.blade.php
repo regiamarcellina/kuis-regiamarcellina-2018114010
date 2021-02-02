@@ -36,7 +36,7 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <form action="/mahasiswa" method="POST">
+      <form action="/matkul" method="POST">
       @csrf
       
       <div class="modal-body">
@@ -48,7 +48,7 @@
     <label for="exampleInputPassword1">SKS</label>
     <input type="text" class="form-control" id="sks" name="sks">
   </div>
-</form>
+
 
 
 
@@ -57,6 +57,7 @@
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         <button type="submit" class="btn btn-primary">Save changes</button>
       </div>
+      </form>
     </div>
   </div>
 </div>

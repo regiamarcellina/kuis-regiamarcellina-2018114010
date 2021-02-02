@@ -60,7 +60,6 @@
     <label for="exampleInputPassword1">Email</label>
     <input type="email" class="form-control" id="email" name="email">
   </div>
-</form>
 
 
 
@@ -69,6 +68,7 @@
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         <button type="submit" class="btn btn-primary">Save changes</button>
       </div>
+      </form>
     </div>
   </div>
 </div>

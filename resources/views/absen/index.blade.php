@@ -59,9 +59,9 @@
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Keterangan</label>
-    <input type="email" class="form-control" id="keterangan" placeholder="" name="keterangan">
+    <input type="text" class="form-control" id="keterangan" placeholder="" name="keterangan">
   </div>
-</form>
+
 
 
 
@@ -70,6 +70,7 @@
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         <button type="submit" class="btn btn-primary">Save changes</button>
       </div>
+      </form>
     </div>
   </div>
 </div>
